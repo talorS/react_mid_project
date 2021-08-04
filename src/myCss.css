@@ -1,0 +1,59 @@
+.ButtonAction {
+  background-color : peru;
+}
+
+.ButtonData {
+  background-color :lightgray;
+}
+
+.colorUser {
+  background-color :orange;
+}
+
+input {
+  display :inline-block;
+  padding: 5px;
+}
+
+.Border {
+  border: 1px solid black;
+  line-height: 1.8;
+}
+
+.adrs {
+  border: 1px solid black;
+  background-color: linen;
+}
+
+.GreenBorder {
+  border: 2px solid green;
+  line-height: 1.8;
+  width: 20%;
+}
+
+.RedBorder {
+  border: 2px solid red;
+  line-height: 1.8;
+  width: 20%;
+}
+
+.PurpleBorder {
+  border: 2px solid purple;  
+}
+
+.Center{
+  margin: auto;
+  width: 400px;
+  height: 200px;
+}
+
+.right_style 
+    {
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      margin-top: -50px;
+      margin-left: -50px;
+      width: 300px;
+      height: 100px;
+}
